@@ -1,0 +1,1 @@
+#Script em python que limpa o cache do squid3 no linux

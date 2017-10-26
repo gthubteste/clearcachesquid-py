@@ -3,6 +3,7 @@
 from time import sleep
 import os
 
+#Definição da classe
 class CacheSquid:
     def limparCache(self):
         #Para o squid3
